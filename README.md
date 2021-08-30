@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... contributing to real-estate data science projects
 - 🌱 I’m currently learning ... DBT
 - 💞️ I’m looking to collaborate on ... projects at the intersection of deep learning and real-estate tech
-- 📫 How to reach me ... jhpenek@gmail.com
+- 📫 How to reach me ... jhpenek@gmail.com or https://www.linkedin.com/in/jhhp/
